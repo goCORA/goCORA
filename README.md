@@ -5,6 +5,7 @@
 2) Using the CORA API to launch CORA-X LIte.
 3) Working with 3rd parties to implement the CORA-API in social media platform in which users maintain control of their online, digital footprint.
 4) Testing the water with CORA-Gold, a centrally controlled, distributed, transaction friendly, green cryptocurrency.
+5) Familiarizing myself with GitHub through the use of private repositories.
 
 - CORA is a step beyond encryption. CORA is an acronym for Context Ordered Replacement Algorithm. CORA is Quantum safe, 
 meaning that Quantum computers will not break CORA's encryption. 
