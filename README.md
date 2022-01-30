@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @goCORA
 - 👀 I’m interested in Quantum Safe Cryptography.
-- 🌱 I’m currently learning about GitHub.
+- 🌱 I’m currently evaluating GitHub.
 - 💞️ I am currently:
 1) Improving the CORA API.
 2) Using the CORA API to launch CORA-X LIte.
 3) Working with 3rd parties to implement the CORA-API in social media platform in which users maintain control of their online, digital footprint.
+4) Testing the water with CORA-Gold, a centrally controlled, distributed, transaction friendly, green cryptocurrency.
 
 - CORA is a step beyond encryption. CORA is an acronym for Context Ordered Replacement Algorithm. CORA is Quantum safe, 
 meaning that Quantum computers will not break CORA's encryption. 
