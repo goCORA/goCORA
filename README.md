@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @goCORA
 - 👀 I’m interested in Quantum Safe Cryptography.
-- 🌱 I’m currently evaluating GitHub.
 - 💞️ I am currently:
 1) Improving the CORA API.
 2) Using the CORA API to launch CORA-X LIte.
